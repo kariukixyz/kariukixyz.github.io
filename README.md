@@ -1,0 +1,2 @@
+# kariukixyz.github.io
+blog
